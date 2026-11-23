@@ -377,7 +377,7 @@ docs = [
 ]
 
 examples = [
-  "datasets~=2.21",
+  "datasets>=2.21,<6.0",
   "python-dotenv~=1.0",
   "langchain-huggingface>=0.0.3",
   "langchain-milvus~=0.1",
